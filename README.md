@@ -6,7 +6,7 @@
     
 - Sprint Board Güncellemeleri Ekran Görüntüleri
     
-    Buraya Trello ssleri eklenecek.
+    ![Ekran görüntüsü 2024-07-11 221510](https://github.com/oua-group-17/bootcamp-final-app/assets/47718441/6f5a9b94-08e0-4ac7-8201-1ba800433893)
     
 - Sprint İçinde Beklenen Puan Tanımlama
     
