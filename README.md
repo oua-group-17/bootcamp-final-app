@@ -1,4 +1,4 @@
-## Sprint 1 (Tıklayın)
+## Sprint 1
 
 <details>
   <summary>Uygulama Görüntüleri</summary>
