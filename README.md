@@ -1,4 +1,4 @@
-## Sprint 1
+## Sprint 2
 
 <details>
   <summary> Uygulama Görüntüleri 📱</summary>
