@@ -41,3 +41,26 @@
   
   * Bir sonraki sprint için takımın ortak bir gün belirlemesine karar verilmiş, daily scrumlara Whatsapp üzerinden devam edilmesine ve uygulama geliştirme sürecinde daha sık etkileşimde kalınması gerektiğine vurgu yapılmıştır.
 </details>
+## Sprint Notları
+
+### Flutter Gezi Uygulaması Hedefleri
+
+Bu sprintte, Flutter ve Firebase kullanarak gezi uygulamasında aşağıdaki hedefler belirlenmiştir:
+
+1. **Kullanıcı Arayüzü Tasarımı:**
+   - Kullanıcı dostu ve estetik bir arayüz oluşturmak.
+   - Uygulamanın farklı ekranlarının (ana sayfa, gezi detayları, kullanıcı profili vb.) tasarımlarını tamamlamak.
+
+2. **Firebase Entegrasyonu:**
+   - Kullanıcı kimlik doğrulama ve kayıt işlemlerini Firebase Authentication ile gerçekleştirmek.
+   - Firebase Firestore kullanarak gezi verilerini bulut tabanlı bir veritabanında depolamak.
+
+3. **Modüller ve Özellikler:**
+   - Gezi rotaları ve detayları gösteren modülleri oluşturmak.
+   - Kullanıcıların gezilerini kaydedebilecekleri ve paylaşabilecekleri bir sistem geliştirmek.
+
+4. **Performans ve Test:**
+   - Uygulamanın performansını optimize etmek.
+   - Farklı cihazlarda ve ekran boyutlarında testler yaparak kullanıcı deneyimini iyileştirmek.
+
+Bu hedefler doğrultusunda sprint boyunca görev dağılımları yapılmış ve belirlenen süre içinde tamamlanması planlanmıştır.
